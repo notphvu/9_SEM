@@ -1,0 +1,2 @@
+2025-10-12T18:18:37Z [INFO] [myserver] [myserver] starting HTTP on port 8080, pid=474073
+2025-10-12T18:18:37Z [INFO] [myserver] [myserver] try: curl http://localhost:8080/whoami

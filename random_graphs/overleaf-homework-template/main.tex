@@ -1,0 +1,30 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage[nameinlink,capitalize]{cleveref}
+\usepackage{subfiles} % allow per-homework compilation
+\input{preamble/macros}
+
+% ---- Course metadata (edit these) ----
+\newcommand{\coursename}{Course Name}
+\newcommand{\term}{Fall 2025}
+\newcommand{\authorname}{Your Name}
+
+\title{\coursename\ — Homework Collection}
+\author{\authorname}
+\date{\term}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\bigskip
+
+% Include individual homework files here (and/or compile them standalone)
+\subfile{homework/hw01}
+\subfile{homework/hw02}
+
+\end{document}

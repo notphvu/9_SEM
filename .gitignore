@@ -1,0 +1,5 @@
+venv/
+./venv/
+./.backup/
+././.backup/
+__pycache__/

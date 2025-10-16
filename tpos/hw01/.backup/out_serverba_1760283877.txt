@@ -1,0 +1,2 @@
+2025-10-12T18:20:27Z [INFO] [serverba] [serverba] starting HTTP on port 8083, pid=474394
+2025-10-12T18:20:27Z [INFO] [serverba] [serverba] try: curl http://localhost:8083/whoami

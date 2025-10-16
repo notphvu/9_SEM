@@ -1,0 +1,26 @@
+\documentclass[../main.tex]{subfiles}
+\begin{document}
+
+\section*{Homework 1}
+\addcontentsline{toc}{section}{Homework 1}
+\setcounter{section}{1} % ensures theorem/prob numbering starts at 1.x for HW1
+
+\begin{problem}[Warm-up inequalities]
+Let $a,b\in\R$ with $a\ge 0$ and $b\ge 0$. Show that $(a+b)^2 \le 2(a^2+b^2)$.
+\end{problem}
+
+\begin{solution}
+By the AM-QM inequality or by direct expansion:
+\[(a+b)^2 = a^2 + 2ab + b^2 \le a^2 + 2\cdot\frac{a^2+b^2}{2} + b^2 = 2(a^2+b^2).\]
+\end{solution}
+
+\begin{problem}[A short proof exercise]
+Prove that if a graph $G$ is bipartite, then it has no odd cycle.
+\end{problem}
+
+\begin{solution}
+Partition $V(G)$ into parts $A$ and $B$ so every edge has one endpoint in each part.
+A cycle alternates between parts, so its length must be even. Thus no odd cycle exists.
+\end{solution}
+
+\end{document}

@@ -1,0 +1,2 @@
+2025-10-12T18:20:22Z [INFO] [serverhai] [serverhai] starting HTTP on port 8082, pid=474380
+2025-10-12T18:20:22Z [INFO] [serverhai] [serverhai] try: curl http://localhost:8082/whoami

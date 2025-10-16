@@ -1,0 +1,2 @@
+2025-10-12T18:20:15Z [INFO] [servermot] [servermot] starting HTTP on port 8081, pid=474350
+2025-10-12T18:20:15Z [INFO] [servermot] [servermot] try: curl http://localhost:8081/whoami

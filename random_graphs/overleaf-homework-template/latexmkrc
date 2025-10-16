@@ -1,0 +1,4 @@
+# Use pdflatex by default
+$pdf_mode = 1;
+$pdflatex = 'pdflatex -interaction=nonstopmode -synctex=1 %O %S';
+$max_repeat = 5;

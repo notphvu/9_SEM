@@ -1,0 +1,3 @@
+2025-10-12T18:48:57Z [INFO] [webapp] [webapp] starting HTTP on port 8000, pid=477216
+2025-10-12T18:48:57Z [INFO] [webapp] [webapp] try: curl http://localhost:8000/whoami
+2025-10-12T18:49:11Z [INFO] [webapp] [webapp] GET /whoami -> 200 (254 bytes)

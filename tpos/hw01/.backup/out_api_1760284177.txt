@@ -1,0 +1,3 @@
+2025-10-12T18:49:03Z [INFO] [api] [api] starting HTTP on port 8001, pid=477266
+2025-10-12T18:49:03Z [INFO] [api] [api] try: curl http://localhost:8001/whoami
+2025-10-12T18:49:19Z [INFO] [api] [api] GET /health -> 200
